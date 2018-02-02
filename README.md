@@ -1,4 +1,4 @@
- # PipeLines
+# PipeLines
 PipeLines
 A small WPF game project: the aim is to create a pipeline from the starting point to the finishing pipes.
 
@@ -8,8 +8,8 @@ The result is not hard coded by levels, it will be checked after every movement 
 A level is solved, when the water can flow from the start to the two finishing points and every pipeitem is used.
 
 ## Controls:
-  - Left-click holded: horizontal movement
-  - Right-click holded: vertical movement
+  - Left-click hold: horizontal movement
+  - Right-click hold: vertical movement
  
 ## Animation:
   - it will run, when a level is solved
